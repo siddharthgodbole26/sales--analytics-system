@@ -1,0 +1,8 @@
+notepad .gitignore
+__pycache__/
+*.pyc
+.env
+.vscode/
+output/
+data/enriched_sales_data.txt
+
