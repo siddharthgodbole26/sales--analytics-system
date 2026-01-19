@@ -1,3 +1,9 @@
+"""
+Project: Sales Analytics System
+Name: Siddharth Godbole
+Roll / Enrollment ID: BITSom_ba_25071865
+"""
+
 Sales Analytics System
 Module 3 – Python Programming Assignment
 
