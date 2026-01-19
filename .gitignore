@@ -1,5 +1,5 @@
 notepad .gitignore
-__pycache__/
+
 *.pyc
 .env
 .vscode/
